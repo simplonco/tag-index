@@ -29,6 +29,7 @@ Index of all available tags
 
 + [css](https://github.com/search?q=org%3Asimplonco+css)
 + [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
++ [haml](https://github.com/search?q=org%3Asimplonco+haml)
 + [html](https://github.com/search?q=org%3Asimplonco+html)
 + [yml](https://github.com/search?q=org%3Asimplonco+yml)
 
@@ -38,23 +39,32 @@ Index of all available tags
 + [clojure](https://github.com/search?q=org%3Asimplonco+clojure)
 + [javascript](https://github.com/search?q=org%3Asimplonco+javascript)
 + [react](https://github.com/search?q=org%3Asimplonco+react)
++ [coffeescript](https://github.com/search?q=org%3Asimplonco+coffee)
 
 ### Back
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
++ [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
 ### Database
 
++ [mongodb](https://github.com/search?q=org%3Asimplonco+mongodb)
 + [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
 + [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
+
+### Test
+
++ [travis](https://github.com/search?q=org%3Asimplonco+travis)
 
 ### Builder
 
 + [phonegap](https://github.com/search?q=org%3Asimplonco+phonegap)
+
+### Server, PaaS, Deploys
+
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
-+ [travis](https://github.com/search?q=org%3Asimplonco+travis)
 
 ### High level
 
