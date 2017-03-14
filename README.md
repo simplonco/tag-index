@@ -1,8 +1,8 @@
 # Index
 Index of all available tags
 
-## Utilités
 ---------------
+## Utilités
 
 ### Theme
 
@@ -17,8 +17,8 @@ Index of all available tags
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
 + [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
 
-## Technos
 ---------------
+## Technos
 
 ### Inte
 
@@ -40,6 +40,10 @@ Index of all available tags
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
+### High level
+
++ [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
+
 ### Builder
 
 + [phonegap](https://github.com/search?q=org%3Asimplonco+phonegap)
@@ -59,5 +63,5 @@ Index of all available tags
 
 + [linux](https://github.com/search?q=org%3Asimplonco+linux)
 + [shell](https://github.com/search?q=org%3Asimplonco+shell)
-+ [xmonad](https://github.com/search?q=org%3Asimplonco+xmobar)
++ [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
 + [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
