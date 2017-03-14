@@ -1,11 +1,31 @@
 # Index
 Index of all available tags
 
+## Utilités
+---------------
+
+### Theme
+
++ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
+
+### Format
+
++ [app](https://github.com/search?q=org%3Asimplonco+app) (architecture complete)
++ [config](https://github.com/search?q=org%3Asimplonco+config) (script à run pour configurer une app/)
++ [site](https://github.com/search?q=org%3Asimplonco+site) (architecture front)
++ [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
++ [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
++ [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
+
+## Technos
+---------------
+
 ### Inte
 
 + [css](https://github.com/search?q=org%3Asimplonco+css)
 + [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
 + [html](https://github.com/search?q=org%3Asimplonco+html)
++ [yml](https://github.com/search?q=org%3Asimplonco+yml)
 
 ### Front
 
@@ -31,14 +51,13 @@ Index of all available tags
 + [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
 + [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
 
-### Theme
+### Misc
 
-+ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
++ [drone](https://github.com/search?q=org%3Asimplonco+drone)
 
-### Format
+### Work Station
 
-+ [app](https://github.com/search?q=org%3Asimplonco+app) (architecture complete)
-+ [site](https://github.com/search?q=org%3Asimplonco+site) (architecture front)
-+ [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
-+ [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
-+ [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
++ [linux](https://github.com/search?q=org%3Asimplonco+linux)
++ [shell](https://github.com/search?q=org%3Asimplonco+shell)
++ [xmonad](https://github.com/search?q=org%3Asimplonco+xmobar)
++ [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
