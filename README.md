@@ -1,8 +1,7 @@
 # Index
 Index of all available tags
 
----------------
-## Utilités
+## Utils
 
 ### Theme
 
@@ -17,7 +16,13 @@ Index of all available tags
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
 + [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
 
----------------
+### Work Station
+
++ [linux](https://github.com/search?q=org%3Asimplonco+linux)
++ [shell](https://github.com/search?q=org%3Asimplonco+shell)
++ [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
++ [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
+
 ## Technos
 
 ### Inte
@@ -40,9 +45,10 @@ Index of all available tags
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
-### High level
+### Database
 
-+ [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
++ [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
++ [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
 
 ### Builder
 
@@ -50,18 +56,11 @@ Index of all available tags
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
 + [travis](https://github.com/search?q=org%3Asimplonco+travis)
 
-### Database
+### High level
 
-+ [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
-+ [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
++ [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
 
 ### Misc
 
 + [drone](https://github.com/search?q=org%3Asimplonco+drone)
 
-### Work Station
-
-+ [linux](https://github.com/search?q=org%3Asimplonco+linux)
-+ [shell](https://github.com/search?q=org%3Asimplonco+shell)
-+ [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
-+ [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
