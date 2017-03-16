@@ -5,23 +5,23 @@ Index of all available tags
 
 ### Theme
 
-+ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
-+ [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
-+ [connected](https://github.com/search?q=org%3Asimplonco+connected)
-+ [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
 + [animation](https://github.com/search?q=org%3Asimplonco+animation)
 + [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
++ [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
++ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
++ [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
 
 ### Format
 
 + [app](https://github.com/search?q=org%3Asimplonco+app) (architecture complete)
++ [challenge](https://github.com/search?q=org%3Asimplonco+challenge)
 + [config](https://github.com/search?q=org%3Asimplonco+config) (script à run pour configurer une app/)
-+ [site](https://github.com/search?q=org%3Asimplonco+site) (architecture front)
-+ [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
 + [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
++ [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
++ [site](https://github.com/search?q=org%3Asimplonco+site) (architecture front)
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop)
-+ [challenge](https://github.com/search?q=org%3Asimplonco+challenge)
 
 ### Work Station
 
@@ -68,11 +68,11 @@ Index of all available tags
 
 + [travis](https://github.com/search?q=org%3Asimplonco+travis)
 
-### Builder
+### App
 
 + [phonegap](https://github.com/search?q=org%3Asimplonco+phonegap)
 
-### Server, PaaS, Deploys
+### Build and Deploy
 
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
@@ -85,8 +85,10 @@ Index of all available tags
 
 + [arduino](https://github.com/search?q=org%3Asimplonco+arduino)
 + [raspberry](https://github.com/search?q=org%3Asimplonco+raspberry)
-
-### Misc
-
 + [drone](https://github.com/search?q=org%3Asimplonco+drone)
 
+### Tools
+
++ [bubble](https://github.com/search?q=org%3Asimplonco+bubble)
++ [cms](https://github.com/search?q=org%3Asimplonco+cms)
++ [wysiwyg](https://github.com/search?q=org%3Asimplonco+wysiwyg)
