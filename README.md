@@ -21,12 +21,14 @@ Index of all available tags
 + [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
 + [haml](https://github.com/search?q=org%3Asimplonco+haml)
 + [html](https://github.com/search?q=org%3Asimplonco+html)
++ [semantic-ui](https://github.com/search?q=org%3Asimplonco+semantic-ui)
 + [yml](https://github.com/search?q=org%3Asimplonco+yml)
 
 ### Front
 
 + [angular](https://github.com/search?q=org%3Asimplonco+angular)
 + [clojure](https://github.com/search?q=org%3Asimplonco+clojure)
++ [ember](https://github.com/search?q=org%3Asimplonco+ember)
 + [javascript](https://github.com/search?q=org%3Asimplonco+javascript)
 + [react](https://github.com/search?q=org%3Asimplonco+react)
 + [coffeescript](https://github.com/search?q=org%3Asimplonco+coffee)
@@ -59,9 +61,11 @@ Index of all available tags
 + [appli](https://github.com/search?q=org%3Asimplonco+app)
 + [phonegap](https://github.com/search?q=org%3Asimplonco+phonegap)
 
-### Build and Deploy
+### Pack, Build and Deploy
 
++ [bower](https://github.com/search?q=org%3Asimplonco+bower)
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
++ [npm](https://github.com/search?q=org%3Asimplonco+npm)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
 
 ### High level
@@ -96,8 +100,11 @@ Index of all available tags
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
 + [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
 + [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
++ [phoenix](https://github.com/search?q=org%3Asimplonco+phoenix)
++ [poll](https://github.com/search?q=org%3Asimplonco+poll)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
++ [whatsapp](https://github.com/search?q=org%3Asimplonco+whatsapp)
 + [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
 
 ### Work Station
