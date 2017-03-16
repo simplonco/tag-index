@@ -14,13 +14,12 @@ Index of all available tags
 
 ### Format
 
-+ [app](https://github.com/search?q=org%3Asimplonco+app) (architecture complete)
 + [challenge](https://github.com/search?q=org%3Asimplonco+challenge)
-+ [config](https://github.com/search?q=org%3Asimplonco+config) (script à run pour configurer une app/)
++ [config](https://github.com/search?q=org%3Asimplonco+config)
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
-+ [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
-+ [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
-+ [site](https://github.com/search?q=org%3Asimplonco+site) (architecture front)
++ [module](https://github.com/search?q=org%3Asimplonco+module)
++ [project](https://github.com/search?q=org%3Asimplonco+project)
++ [raw](https://github.com/search?q=org%3Asimplonco+raw)
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop)
 
 ### Work Station
@@ -70,6 +69,7 @@ Index of all available tags
 
 ### App
 
++ [appli](https://github.com/search?q=org%3Asimplonco+app)
 + [phonegap](https://github.com/search?q=org%3Asimplonco+phonegap)
 
 ### Build and Deploy
