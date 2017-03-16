@@ -5,12 +5,12 @@ Index of all available tags
 
 + [challenge](https://github.com/search?q=org%3Asimplonco+challenge) - exercice à but, délai et validation précise.
 + [config](https://github.com/search?q=org%3Asimplonco+config) - script de config.
++ [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - one-shot non-mutualisable ou non-fini.
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
 + [project](https://github.com/search?q=org%3Asimplonco+project) - système complet.
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - exemple de projet, site, app sans wrapper théorique.
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop) - atelier ajustable en live-coding.
-+ [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - onse-shot non-mutualisable ou non-fini.
 
 ## Technos
 
