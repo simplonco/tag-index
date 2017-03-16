@@ -22,9 +22,12 @@ Index of all available tags
 
 + [bootstrap](https://github.com/search?q=org%3Asimplonco+bootstrap)
 + [css](https://github.com/search?q=org%3Asimplonco+css)
++ [font-awesome](https://github.com/search?q=org%3Asimplonco+font-awesome)
 + [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
 + [haml](https://github.com/search?q=org%3Asimplonco+haml)
 + [html](https://github.com/search?q=org%3Asimplonco+html)
++ [less](https://github.com/search?q=org%3Asimplonco+less)
++ [sass](https://github.com/search?q=org%3Asimplonco+sass)
 + [semantic-ui](https://github.com/search?q=org%3Asimplonco+semantic-ui)
 + [yml](https://github.com/search?q=org%3Asimplonco+yml)
 
@@ -69,6 +72,7 @@ Index of all available tags
 ### Pack, Build and Deploy
 
 + [bower](https://github.com/search?q=org%3Asimplonco+bower)
++ [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [npm](https://github.com/search?q=org%3Asimplonco+npm)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
@@ -76,6 +80,11 @@ Index of all available tags
 ### High level
 
 + [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
+
+### Low level
+
++ [bash](https://github.com/search?q=org%3Asimplonco+bash)
++ [shell](https://github.com/search?q=org%3Asimplonco+shell)
 
 ### Connected
 
@@ -101,6 +110,7 @@ Index of all available tags
 + [animation](https://github.com/search?q=org%3Asimplonco+animation)
 + [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
 + [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [exercism](https://github.com/search?q=org%3Asimplonco+exercism)
 + [fizzbuzz](https://github.com/search?q=org%3Asimplonco+fizzbuzz)
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
