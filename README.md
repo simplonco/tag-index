@@ -5,6 +5,7 @@ Index of all available tags
 
 + [challenge](https://github.com/search?q=org%3Asimplonco+challenge) - exercice à but, délai et validation précise.
 + [config](https://github.com/search?q=org%3Asimplonco+config) - script de config.
++ [demo](https://github.com/search?q=org%3Asimplonco+demo) - short code exemple.
 + [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - one-shot non-mutualisable ou non-fini.
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
@@ -26,6 +27,7 @@ Index of all available tags
 
 ### Front
 
++ [ajax](https://github.com/search?q=org%3Asimplonco+ajax)
 + [angular](https://github.com/search?q=org%3Asimplonco+angular)
 + [clojure](https://github.com/search?q=org%3Asimplonco+clojure)
 + [ember](https://github.com/search?q=org%3Asimplonco+ember)
