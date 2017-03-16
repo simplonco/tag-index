@@ -11,9 +11,12 @@ Index of all available tags
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
 + [project](https://github.com/search?q=org%3Asimplonco+project) - app/site complet, à compléter ou à construire.
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - code pure avec README.md incomplet et/ou inexistant.
++ [star](https://github.com/search?q=org%3Asimplonco+star) - très complet, lisible.
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop) - atelier ajustable en live-coding.
 
 ## Technos
+
++ [all](https://github.com/search?q=org%3Asimplonco+all)
 
 ### Inte
 
@@ -98,6 +101,7 @@ Index of all available tags
 + [animation](https://github.com/search?q=org%3Asimplonco+animation)
 + [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
 + [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [fizzbuzz](https://github.com/search?q=org%3Asimplonco+fizzbuzz)
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
 + [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
@@ -105,6 +109,8 @@ Index of all available tags
 + [phoenix](https://github.com/search?q=org%3Asimplonco+phoenix)
 + [poll](https://github.com/search?q=org%3Asimplonco+poll)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
++ [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
++ [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
 + [whatsapp](https://github.com/search?q=org%3Asimplonco+whatsapp)
 + [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
