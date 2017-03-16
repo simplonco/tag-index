@@ -6,6 +6,11 @@ Index of all available tags
 ### Theme
 
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
++ [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
++ [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
++ [animation](https://github.com/search?q=org%3Asimplonco+animation)
++ [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
 
 ### Format
 
@@ -15,6 +20,8 @@ Index of all available tags
 + [project](https://github.com/search?q=org%3Asimplonco+project) (pending et en attente de contribution)
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
 + [module](https://github.com/search?q=org%3Asimplonco+module) (cours théorique dispo sur le README.md)
++ [workshop](https://github.com/search?q=org%3Asimplonco+workshop)
++ [challenge](https://github.com/search?q=org%3Asimplonco+challenge)
 
 ### Work Station
 
@@ -27,6 +34,7 @@ Index of all available tags
 
 ### Inte
 
++ [bootstrap](https://github.com/search?q=org%3Asimplonco+bootstrap)
 + [css](https://github.com/search?q=org%3Asimplonco+css)
 + [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
 + [haml](https://github.com/search?q=org%3Asimplonco+haml)
@@ -45,12 +53,14 @@ Index of all available tags
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
++ [node](https://github.com/search?q=org%3Asimplonco+node)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
 ### Database
 
 + [mongodb](https://github.com/search?q=org%3Asimplonco+mongodb)
++ [postgresql](https://github.com/search?q=org%3Asimplonco+postgresql)
 + [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
 + [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
 
@@ -64,11 +74,17 @@ Index of all available tags
 
 ### Server, PaaS, Deploys
 
++ [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
 
 ### High level
 
 + [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
+
+### Connected
+
++ [arduino](https://github.com/search?q=org%3Asimplonco+arduino)
++ [raspberry](https://github.com/search?q=org%3Asimplonco+raspberry)
 
 ### Misc
 
