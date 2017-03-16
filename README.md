@@ -1,21 +1,7 @@
 # Index
 Index of all available tags
 
-## Utils
-
-### Theme
-
-+ [animation](https://github.com/search?q=org%3Asimplonco+animation)
-+ [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
-+ [connected](https://github.com/search?q=org%3Asimplonco+connected)
-+ [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
-+ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
-+ [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
-+ [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
-+ [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
-+ [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
-
-### Format
+## Format
 
 + [challenge](https://github.com/search?q=org%3Asimplonco+challenge) - exercice à but, délai et validation précise.
 + [config](https://github.com/search?q=org%3Asimplonco+config) - script de config.
@@ -25,13 +11,6 @@ Index of all available tags
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - exemple de projet, site, app sans wrapper théorique.
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop) - atelier ajustable en live-coding.
 + [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - onse-shot non-mutualisable ou non-fini.
-
-### Work Station
-
-+ [linux](https://github.com/search?q=org%3Asimplonco+linux)
-+ [shell](https://github.com/search?q=org%3Asimplonco+shell)
-+ [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
-+ [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
 
 ## Technos
 
@@ -105,3 +84,25 @@ Index of all available tags
 + [theme](https://github.com/search?q=org%3Asimplonco+theme)
 + [wordpress](https://github.com/search?q=org%3Asimplonco+wordpress)
 + [wysiwyg](https://github.com/search?q=org%3Asimplonco+wysiwyg)
+
+## Utils
+
+### Theme
+
++ [animation](https://github.com/search?q=org%3Asimplonco+animation)
++ [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
++ [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
++ [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
++ [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
++ [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
++ [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
++ [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
++ [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
+
+### Work Station
+
++ [linux](https://github.com/search?q=org%3Asimplonco+linux)
++ [shell](https://github.com/search?q=org%3Asimplonco+shell)
++ [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
++ [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
