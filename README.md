@@ -9,6 +9,7 @@ Index of all available tags
 + [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - one-shot non-mutualisable ou non-fini.
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
++ [parcours](https://github.com/search?q=org%3Asimplonco+parcours) - parcours complet d'entrainement ou de formation.
 + [project](https://github.com/search?q=org%3Asimplonco+project) - app/site complet, à compléter ou à construire.
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - code pure avec README.md incomplet et/ou inexistant.
 + [star](https://github.com/search?q=org%3Asimplonco+star) - très complet, lisible.
@@ -86,6 +87,14 @@ Index of all available tags
 + [bash](https://github.com/search?q=org%3Asimplonco+bash)
 + [shell](https://github.com/search?q=org%3Asimplonco+shell)
 
+### Concept
+
++ [crypto](https://github.com/search?q=org%3Asimplonco+crypto)
++ [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
++ [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
++ [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
++ [uml](https://github.com/search?q=org%3Asimplonco+uml)
+
 ### Connected
 
 + [arduino](https://github.com/search?q=org%3Asimplonco+arduino)
@@ -119,8 +128,6 @@ Index of all available tags
 + [phoenix](https://github.com/search?q=org%3Asimplonco+phoenix)
 + [poll](https://github.com/search?q=org%3Asimplonco+poll)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
-+ [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
-+ [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
 + [whatsapp](https://github.com/search?q=org%3Asimplonco+whatsapp)
 + [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
