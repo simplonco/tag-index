@@ -11,16 +11,20 @@ Index of all available tags
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
 + [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
++ [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
++ [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
++ [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
 
 ### Format
 
-+ [challenge](https://github.com/search?q=org%3Asimplonco+challenge)
-+ [config](https://github.com/search?q=org%3Asimplonco+config)
-+ [exercice](https://github.com/search?q=org%3Asimplonco+exercice)
-+ [module](https://github.com/search?q=org%3Asimplonco+module)
-+ [project](https://github.com/search?q=org%3Asimplonco+project)
-+ [raw](https://github.com/search?q=org%3Asimplonco+raw)
-+ [workshop](https://github.com/search?q=org%3Asimplonco+workshop)
++ [challenge](https://github.com/search?q=org%3Asimplonco+challenge) - exercice à but, délai et validation précise.
++ [config](https://github.com/search?q=org%3Asimplonco+config) - script de config.
++ [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
++ [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
++ [project](https://github.com/search?q=org%3Asimplonco+project) - système complet.
++ [raw](https://github.com/search?q=org%3Asimplonco+raw) - exemple de projet, site, app sans wrapper théorique.
++ [workshop](https://github.com/search?q=org%3Asimplonco+workshop) - atelier ajustable en live-coding.
++ [deprecated](https://github.com/search?q=org%3Asimplonco+deprecated) - onse-shot non-mutualisable ou non-fini.
 
 ### Work Station
 
@@ -51,14 +55,18 @@ Index of all available tags
 ### Back
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
++ [crud](https://github.com/search?q=org%3Asimplonco+crud)
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [node](https://github.com/search?q=org%3Asimplonco+node)
++ [php](https://github.com/search?q=org%3Asimplonco+php)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
 ### Database
 
 + [mongodb](https://github.com/search?q=org%3Asimplonco+mongodb)
++ [mssql](https://github.com/search?q=org%3Asimplonco+mssql)
++ [mysql](https://github.com/search?q=org%3Asimplonco+mysql)
 + [postgresql](https://github.com/search?q=org%3Asimplonco+postgresql)
 + [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
 + [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
@@ -89,6 +97,11 @@ Index of all available tags
 
 ### Tools
 
++ [bot](https://github.com/search?q=org%3Asimplonco+bot)
 + [bubble](https://github.com/search?q=org%3Asimplonco+bubble)
 + [cms](https://github.com/search?q=org%3Asimplonco+cms)
++ [prod](https://github.com/search?q=org%3Asimplonco+prod)
++ [slack](https://github.com/search?q=org%3Asimplonco+slack)
++ [theme](https://github.com/search?q=org%3Asimplonco+theme)
++ [wordpress](https://github.com/search?q=org%3Asimplonco+wordpress)
 + [wysiwyg](https://github.com/search?q=org%3Asimplonco+wysiwyg)
