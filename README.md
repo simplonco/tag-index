@@ -46,13 +46,13 @@ Index of all available tags
 + [clojure](https://github.com/search?q=org%3Asimplonco+clojure)
 + [ember](https://github.com/search?q=org%3Asimplonco+ember)
 + [javascript](https://github.com/search?q=org%3Asimplonco+javascript)
++ [leaflet](https://github.com/search?q=org%3Asimplonco+leaflet)
 + [react](https://github.com/search?q=org%3Asimplonco+react)
 + [coffeescript](https://github.com/search?q=org%3Asimplonco+coffee)
 
 ### Back
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
-+ [crud](https://github.com/search?q=org%3Asimplonco+crud)
 + [j2ee](https://github.com/search?q=org%3Asimplonco+j2ee)
 + [java](https://github.com/search?q=org%3Asimplonco+java)
 + [jdk](https://github.com/search?q=org%3Asimplonco+jdk)
@@ -61,11 +61,13 @@ Index of all available tags
 + [jvm](https://github.com/search?q=org%3Asimplonco+jvm)
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [node](https://github.com/search?q=org%3Asimplonco+node)
++ [pdo](https://github.com/search?q=org%3Asimplonco+pdo)
 + [php](https://github.com/search?q=org%3Asimplonco+php)
 + [python](https://github.com/search?q=org%3Asimplonco+python)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 + [symfony](https://github.com/search?q=org%3Asimplonco+symfony)
++ [twig](https://github.com/search?q=org%3Asimplonco+twig)
 + [vagrant](https://github.com/search?q=org%3Asimplonco+vagrant)
 
 ### Database
@@ -112,9 +114,11 @@ Index of all available tags
 
 ### Concept
 
++ [auth](https://github.com/search?q=org%3Asimplonco+auth)
 + [array](https://github.com/search?q=org%3Asimplonco+array)
 + [condition](https://github.com/search?q=org%3Asimplonco+condition)
 + [cookie](https://github.com/search?q=org%3Asimplonco+cookie)
++ [crud](https://github.com/search?q=org%3Asimplonco+crud)
 + [crypto](https://github.com/search?q=org%3Asimplonco+crypto)
 + [date](https://github.com/search?q=org%3Asimplonco+date)
 + [form](https://github.com/search?q=org%3Asimplonco+form)
@@ -123,6 +127,8 @@ Index of all available tags
 + [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
 + [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
 + [scraping](https://github.com/search?q=org%3Asimplonco+scraping)
++ [session](https://github.com/search?q=org%3Asimplonco+session)
++ [sha](https://github.com/search?q=org%3Asimplonco+sha)
 + [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
 + [uml](https://github.com/search?q=org%3Asimplonco+uml)
 + [url](https://github.com/search?q=org%3Asimplonco+url)
