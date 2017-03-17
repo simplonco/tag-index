@@ -55,6 +55,7 @@ Index of all available tags
 ### Back
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
++ [express](https://github.com/search?q=org%3Asimplonco+express)
 + [j2ee](https://github.com/search?q=org%3Asimplonco+j2ee)
 + [java](https://github.com/search?q=org%3Asimplonco+java)
 + [jdk](https://github.com/search?q=org%3Asimplonco+jdk)
@@ -76,6 +77,7 @@ Index of all available tags
 
 + [firebase](https://github.com/search?q=org%3Asimplonco+firebase)
 + [mongodb](https://github.com/search?q=org%3Asimplonco+mongodb)
++ [monk](https://github.com/search?q=org%3Asimplonco+monk)
 + [mssql](https://github.com/search?q=org%3Asimplonco+mssql)
 + [mysql](https://github.com/search?q=org%3Asimplonco+mysql)
 + [postgresql](https://github.com/search?q=org%3Asimplonco+postgresql)
@@ -133,6 +135,7 @@ Index of all available tags
 + [loop](https://github.com/search?q=org%3Asimplonco+loop)
 + [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
 + [oauth](https://github.com/search?q=org%3Asimplonco+oauth)
++ [proxy](https://github.com/search?q=org%3Asimplonco+proxy)
 + [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
 + [scraping](https://github.com/search?q=org%3Asimplonco+scraping)
 + [session](https://github.com/search?q=org%3Asimplonco+session)
@@ -145,14 +148,17 @@ Index of all available tags
 ### Connected
 
 + [arduino](https://github.com/search?q=org%3Asimplonco+arduino)
-+ [raspberry](https://github.com/search?q=org%3Asimplonco+raspberry)
 + [drone](https://github.com/search?q=org%3Asimplonco+drone)
++ [raspberry](https://github.com/search?q=org%3Asimplonco+raspberry)
++ [rfid](https://github.com/search?q=org%3Asimplonco+rfid)
++ [serialport](https://github.com/search?q=org%3Asimplonco+serialport)
 
 ### Tools
 
 + [bot](https://github.com/search?q=org%3Asimplonco+bot)
 + [bubble](https://github.com/search?q=org%3Asimplonco+bubble)
 + [cms](https://github.com/search?q=org%3Asimplonco+cms)
++ [jupyter](https://github.com/search?q=org%3Asimplonco+jupyter)
 + [kanban](https://github.com/search?q=org%3Asimplonco+kanban)
 + [slack](https://github.com/search?q=org%3Asimplonco+slack)
 + [theme](https://github.com/search?q=org%3Asimplonco+theme)
@@ -166,6 +172,8 @@ Index of all available tags
 + [animation](https://github.com/search?q=org%3Asimplonco+animation)
 + [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
 + [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [data](https://github.com/search?q=org%3Asimplonco+data)
++ [dribble](https://github.com/search?q=org%3Asimplonco+dribble)
 + [emoji](https://github.com/search?q=org%3Asimplonco+emoji)
 + [exercism](https://github.com/search?q=org%3Asimplonco+exercism)
 + [facebook](https://github.com/search?q=org%3Asimplonco+facebook)
@@ -183,6 +191,7 @@ Index of all available tags
 + [plante](https://github.com/search?q=org%3Asimplonco+plante)
 + [pokemon](https://github.com/search?q=org%3Asimplonco+pokemon)
 + [poll](https://github.com/search?q=org%3Asimplonco+poll)
++ [qrcode](https://github.com/search?q=org%3Asimplonco+qrcode)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
 + [sprite](https://github.com/search?q=org%3Asimplonco+sprite)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
@@ -193,5 +202,6 @@ Index of all available tags
 
 + [linux](https://github.com/search?q=org%3Asimplonco+linux)
 + [shell](https://github.com/search?q=org%3Asimplonco+shell)
++ [unix](https://github.com/search?q=org%3Asimplonco+unix)
 + [xmobar](https://github.com/search?q=org%3Asimplonco+xmobar)
 + [xmonad](https://github.com/search?q=org%3Asimplonco+xmonad)
