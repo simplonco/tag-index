@@ -4,7 +4,7 @@ Index of all available tags
 ## Team
 
 + [github](https://github.com/search?q=org%3Asimplonco+github) - ressources sur github et comment l'utiliser en tant que formateur.
-+ [prod](https://github.com/search?q=org%3Asimplonco+prod) - projets de la prod.
++ [prod](https://github.com/search?q=org%3Asimplonco+prod) - projets pour simplon prod.
 + [simplon](https://github.com/search?q=org%3Asimplonco+simplon) - projets pour simplon.
 
 ## Format
