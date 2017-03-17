@@ -30,8 +30,7 @@ Index of all available tags
 
 + [bootstrap](https://github.com/search?q=org%3Asimplonco+bootstrap)
 + [css](https://github.com/search?q=org%3Asimplonco+css)
-+ [font-awesome](https://github.com/search?q=org%3Asimplonco+font-awesome)
-+ [foundation](https://github.com/search?q=org%3Asimplonco+foundation)
++ [flex](https://github.com/search?q=org%3Asimplonco+flex)
 + [haml](https://github.com/search?q=org%3Asimplonco+haml)
 + [html](https://github.com/search?q=org%3Asimplonco+html)
 + [less](https://github.com/search?q=org%3Asimplonco+less)
@@ -161,6 +160,7 @@ Index of all available tags
 + [git](https://github.com/search?q=org%3Asimplonco+git)
 + [jupyter](https://github.com/search?q=org%3Asimplonco+jupyter)
 + [kanban](https://github.com/search?q=org%3Asimplonco+kanban)
++ [pr](https://github.com/search?q=org%3Asimplonco+pr)
 + [slack](https://github.com/search?q=org%3Asimplonco+slack)
 + [theme](https://github.com/search?q=org%3Asimplonco+theme)
 + [wordpress](https://github.com/search?q=org%3Asimplonco+wordpress)
