@@ -1,6 +1,12 @@
 # Index
 Index of all available tags
 
+## Team
+
++ [github](https://github.com/search?q=org%3Asimplonco+github) - ressources sur github et comment l'utiliser en tant que formateur.
++ [prod](https://github.com/search?q=org%3Asimplonco+prod) - projets de la prod.
++ [simplon](https://github.com/search?q=org%3Asimplonco+simplon) - projets pour simplon.
+
 ## Format
 
 + [challenge](https://github.com/search?q=org%3Asimplonco+challenge) - exercice à but, délai et validation précise.
@@ -58,6 +64,7 @@ Index of all available tags
 + [mssql](https://github.com/search?q=org%3Asimplonco+mssql)
 + [mysql](https://github.com/search?q=org%3Asimplonco+mysql)
 + [postgresql](https://github.com/search?q=org%3Asimplonco+postgresql)
++ [redis](https://github.com/search?q=org%3Asimplonco+redis)
 + [sqlite](https://github.com/search?q=org%3Asimplonco+sqlite)
 + [sqlite3](https://github.com/search?q=org%3Asimplonco+sqlite3)
 
@@ -92,6 +99,7 @@ Index of all available tags
 + [crypto](https://github.com/search?q=org%3Asimplonco+crypto)
 + [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
 + [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
++ [scraping](https://github.com/search?q=org%3Asimplonco+scraping)
 + [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
 + [uml](https://github.com/search?q=org%3Asimplonco+uml)
 
@@ -106,7 +114,6 @@ Index of all available tags
 + [bot](https://github.com/search?q=org%3Asimplonco+bot)
 + [bubble](https://github.com/search?q=org%3Asimplonco+bubble)
 + [cms](https://github.com/search?q=org%3Asimplonco+cms)
-+ [prod](https://github.com/search?q=org%3Asimplonco+prod)
 + [slack](https://github.com/search?q=org%3Asimplonco+slack)
 + [theme](https://github.com/search?q=org%3Asimplonco+theme)
 + [wordpress](https://github.com/search?q=org%3Asimplonco+wordpress)
@@ -122,6 +129,7 @@ Index of all available tags
 + [exercism](https://github.com/search?q=org%3Asimplonco+exercism)
 + [fizzbuzz](https://github.com/search?q=org%3Asimplonco+fizzbuzz)
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
++ [form](https://github.com/search?q=org%3Asimplonco+form)
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
 + [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
 + [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
