@@ -16,6 +16,7 @@ Index of all available tags
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
 + [parcours](https://github.com/search?q=org%3Asimplonco+parcours) - parcours complet d'entrainement ou de formation.
++ [pending](https://github.com/search?q=org%3Asimplonco+pending) - cours en cours de construction.
 + [project](https://github.com/search?q=org%3Asimplonco+project) - app/site complet, à compléter ou à construire.
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - code pure avec README.md incomplet et/ou inexistant.
 + [star](https://github.com/search?q=org%3Asimplonco+star) - très complet, lisible.
@@ -52,6 +53,11 @@ Index of all available tags
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
 + [crud](https://github.com/search?q=org%3Asimplonco+crud)
++ [java](https://github.com/search?q=org%3Asimplonco+java)
++ [jdk](https://github.com/search?q=org%3Asimplonco+jdk)
++ [jodd](https://github.com/search?q=org%3Asimplonco+jodd)
++ [jsp](https://github.com/search?q=org%3Asimplonco+jsp)
++ [jvm](https://github.com/search?q=org%3Asimplonco+jvm)
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [node](https://github.com/search?q=org%3Asimplonco+node)
 + [php](https://github.com/search?q=org%3Asimplonco+php)
@@ -87,11 +93,13 @@ Index of all available tags
 + [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [npm](https://github.com/search?q=org%3Asimplonco+npm)
++ [oracle](https://github.com/search?q=org%3Asimplonco+oracle)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
 
 ### High level
 
 + [haskell](https://github.com/search?q=org%3Asimplonco+haskell)
++ [poo](https://github.com/search?q=org%3Asimplonco+poo)
 
 ### Low level
 
