@@ -158,6 +158,7 @@ Index of all available tags
 + [bot](https://github.com/search?q=org%3Asimplonco+bot)
 + [bubble](https://github.com/search?q=org%3Asimplonco+bubble)
 + [cms](https://github.com/search?q=org%3Asimplonco+cms)
++ [git](https://github.com/search?q=org%3Asimplonco+git)
 + [jupyter](https://github.com/search?q=org%3Asimplonco+jupyter)
 + [kanban](https://github.com/search?q=org%3Asimplonco+kanban)
 + [slack](https://github.com/search?q=org%3Asimplonco+slack)
