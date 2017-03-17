@@ -53,6 +53,7 @@ Index of all available tags
 
 + [api](https://github.com/search?q=org%3Asimplonco+api)
 + [crud](https://github.com/search?q=org%3Asimplonco+crud)
++ [j2ee](https://github.com/search?q=org%3Asimplonco+j2ee)
 + [java](https://github.com/search?q=org%3Asimplonco+java)
 + [jdk](https://github.com/search?q=org%3Asimplonco+jdk)
 + [jodd](https://github.com/search?q=org%3Asimplonco+jodd)
@@ -64,6 +65,8 @@ Index of all available tags
 + [python](https://github.com/search?q=org%3Asimplonco+python)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
++ [symfony](https://github.com/search?q=org%3Asimplonco+symfony)
++ [vagrant](https://github.com/search?q=org%3Asimplonco+vagrant)
 
 ### Database
 
@@ -88,6 +91,7 @@ Index of all available tags
 ### Pack, Build and Deploy
 
 + [bower](https://github.com/search?q=org%3Asimplonco+bower)
++ [composer](https://github.com/search?q=org%3Asimplonco+composer)
 + [filezilla](https://github.com/search?q=org%3Asimplonco+filezilla)
 + [ftp](https://github.com/search?q=org%3Asimplonco+ftp)
 + [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
