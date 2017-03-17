@@ -44,8 +44,10 @@ Index of all available tags
 + [ajax](https://github.com/search?q=org%3Asimplonco+ajax)
 + [angular](https://github.com/search?q=org%3Asimplonco+angular)
 + [clojure](https://github.com/search?q=org%3Asimplonco+clojure)
++ [dom](https://github.com/search?q=org%3Asimplonco+dom)
 + [ember](https://github.com/search?q=org%3Asimplonco+ember)
 + [javascript](https://github.com/search?q=org%3Asimplonco+javascript)
++ [json](https://github.com/search?q=org%3Asimplonco+json)
 + [leaflet](https://github.com/search?q=org%3Asimplonco+leaflet)
 + [react](https://github.com/search?q=org%3Asimplonco+react)
 + [coffeescript](https://github.com/search?q=org%3Asimplonco+coffee)
@@ -83,6 +85,8 @@ Index of all available tags
 
 ### Test
 
++ [jasmine](https://github.com/search?q=org%3Asimplonco+jasmine)
++ [tdd](https://github.com/search?q=org%3Asimplonco+tdd)
 + [travis](https://github.com/search?q=org%3Asimplonco+travis)
 
 ### App
@@ -97,10 +101,13 @@ Index of all available tags
 + [filezilla](https://github.com/search?q=org%3Asimplonco+filezilla)
 + [ftp](https://github.com/search?q=org%3Asimplonco+ftp)
 + [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
++ [gulp](https://github.com/search?q=org%3Asimplonco+gulp)
++ [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [npm](https://github.com/search?q=org%3Asimplonco+npm)
 + [oracle](https://github.com/search?q=org%3Asimplonco+oracle)
 + [rack](https://github.com/search?q=org%3Asimplonco+rack)
++ [webpack](https://github.com/search?q=org%3Asimplonco+webpack)
 
 ### High level
 
@@ -125,6 +132,7 @@ Index of all available tags
 + [function](https://github.com/search?q=org%3Asimplonco+function)
 + [loop](https://github.com/search?q=org%3Asimplonco+loop)
 + [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
++ [oauth](https://github.com/search?q=org%3Asimplonco+oauth)
 + [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
 + [scraping](https://github.com/search?q=org%3Asimplonco+scraping)
 + [session](https://github.com/search?q=org%3Asimplonco+session)
@@ -162,11 +170,13 @@ Index of all available tags
 + [exercism](https://github.com/search?q=org%3Asimplonco+exercism)
 + [facebook](https://github.com/search?q=org%3Asimplonco+facebook)
 + [fizzbuzz](https://github.com/search?q=org%3Asimplonco+fizzbuzz)
++ [flappy-bird](https://github.com/search?q=org%3Asimplonco+flappy-bird)
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
 + [form](https://github.com/search?q=org%3Asimplonco+form)
 + [google](https://github.com/search?q=org%3Asimplonco+google)
 + [geolocation](https://github.com/search?q=org%3Asimplonco+geolocation)
 + [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
++ [lastfm](https://github.com/search?q=org%3Asimplonco+lastfm)
 + [linkedin](https://github.com/search?q=org%3Asimplonco+linkedin)
 + [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
 + [phoenix](https://github.com/search?q=org%3Asimplonco+phoenix)
@@ -174,6 +184,7 @@ Index of all available tags
 + [pokemon](https://github.com/search?q=org%3Asimplonco+pokemon)
 + [poll](https://github.com/search?q=org%3Asimplonco+poll)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
++ [sprite](https://github.com/search?q=org%3Asimplonco+sprite)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
 + [whatsapp](https://github.com/search?q=org%3Asimplonco+whatsapp)
 + [yoyo](https://github.com/search?q=org%3Asimplonco+yoyo)
