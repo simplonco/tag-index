@@ -81,6 +81,8 @@ Index of all available tags
 ### Pack, Build and Deploy
 
 + [bower](https://github.com/search?q=org%3Asimplonco+bower)
++ [filezilla](https://github.com/search?q=org%3Asimplonco+filezilla)
++ [ftp](https://github.com/search?q=org%3Asimplonco+ftp)
 + [grunt](https://github.com/search?q=org%3Asimplonco+grunt)
 + [heroku](https://github.com/search?q=org%3Asimplonco+heroku)
 + [npm](https://github.com/search?q=org%3Asimplonco+npm)
@@ -127,6 +129,7 @@ Index of all available tags
 + [animation](https://github.com/search?q=org%3Asimplonco+animation)
 + [cartography](https://github.com/search?q=org%3Asimplonco+cartography)
 + [connected](https://github.com/search?q=org%3Asimplonco+connected)
++ [emoji](https://github.com/search?q=org%3Asimplonco+emoji)
 + [exercism](https://github.com/search?q=org%3Asimplonco+exercism)
 + [fizzbuzz](https://github.com/search?q=org%3Asimplonco+fizzbuzz)
 + [fleur](https://github.com/search?q=org%3Asimplonco+fleur)
@@ -135,6 +138,8 @@ Index of all available tags
 + [halloween](https://github.com/search?q=org%3Asimplonco+halloween)
 + [natacha](https://github.com/search?q=org%3Asimplonco+natacha)
 + [phoenix](https://github.com/search?q=org%3Asimplonco+phoenix)
++ [plante](https://github.com/search?q=org%3Asimplonco+plante)
++ [pokemon](https://github.com/search?q=org%3Asimplonco+pokemon)
 + [poll](https://github.com/search?q=org%3Asimplonco+poll)
 + [quizz](https://github.com/search?q=org%3Asimplonco+quizz)
 + [twitter](https://github.com/search?q=org%3Asimplonco+twitter)
