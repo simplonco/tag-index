@@ -61,6 +61,7 @@ Index of all available tags
 
 ### Database
 
++ [firebase](https://github.com/search?q=org%3Asimplonco+firebase)
 + [mongodb](https://github.com/search?q=org%3Asimplonco+mongodb)
 + [mssql](https://github.com/search?q=org%3Asimplonco+mssql)
 + [mysql](https://github.com/search?q=org%3Asimplonco+mysql)
@@ -99,12 +100,21 @@ Index of all available tags
 
 ### Concept
 
++ [array](https://github.com/search?q=org%3Asimplonco+array)
++ [condition](https://github.com/search?q=org%3Asimplonco+condition)
++ [cookie](https://github.com/search?q=org%3Asimplonco+cookie)
 + [crypto](https://github.com/search?q=org%3Asimplonco+crypto)
++ [date](https://github.com/search?q=org%3Asimplonco+date)
++ [form](https://github.com/search?q=org%3Asimplonco+form)
++ [function](https://github.com/search?q=org%3Asimplonco+function)
++ [loop](https://github.com/search?q=org%3Asimplonco+loop)
 + [mvc](https://github.com/search?q=org%3Asimplonco+mvc)
 + [recursive](https://github.com/search?q=org%3Asimplonco+recursive)
 + [scraping](https://github.com/search?q=org%3Asimplonco+scraping)
 + [singleton](https://github.com/search?q=org%3Asimplonco+singleton)
 + [uml](https://github.com/search?q=org%3Asimplonco+uml)
++ [url](https://github.com/search?q=org%3Asimplonco+url)
++ [variable](https://github.com/search?q=org%3Asimplonco+variable)
 
 ### Connected
 
