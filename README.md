@@ -55,6 +55,7 @@ Index of all available tags
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [node](https://github.com/search?q=org%3Asimplonco+node)
 + [php](https://github.com/search?q=org%3Asimplonco+php)
++ [python](https://github.com/search?q=org%3Asimplonco+python)
 + [rails](https://github.com/search?q=org%3Asimplonco+rails)
 + [ruby](https://github.com/search?q=org%3Asimplonco+ruby)
 
