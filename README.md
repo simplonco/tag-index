@@ -16,9 +16,10 @@ Index of all available tags
 + [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - exercice d'entrainement.
 + [module](https://github.com/search?q=org%3Asimplonco+module) - cours complet composé de théorie et exemple pratique.
 + [parcours](https://github.com/search?q=org%3Asimplonco+parcours) - parcours complet d'entrainement ou de formation.
-+ [pending](https://github.com/search?q=org%3Asimplonco+pending) - cours en cours de construction.
++ [pending](https://github.com/search?q=org%3Asimplonco+pending) - en cours de construction.
 + [project](https://github.com/search?q=org%3Asimplonco+project) - app/site complet, à compléter ou à construire.
 + [raw](https://github.com/search?q=org%3Asimplonco+raw) - code pure avec README.md incomplet et/ou inexistant.
++ [exercice](https://github.com/search?q=org%3Asimplonco+exercice) - entièrement conçu pour faire des évaluations.
 + [star](https://github.com/search?q=org%3Asimplonco+star) - très complet, lisible.
 + [workshop](https://github.com/search?q=org%3Asimplonco+workshop) - atelier ajustable en live-coding.
 
