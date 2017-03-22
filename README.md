@@ -64,6 +64,7 @@ Index of all available tags
 + [jvm](https://github.com/search?q=org%3Asimplonco+jvm)
 + [meteor](https://github.com/search?q=org%3Asimplonco+meteor)
 + [node](https://github.com/search?q=org%3Asimplonco+node)
++ [nodemon](https://github.com/search?q=org%3Asimplonco+nodemon)
 + [pdo](https://github.com/search?q=org%3Asimplonco+pdo)
 + [php](https://github.com/search?q=org%3Asimplonco+php)
 + [python](https://github.com/search?q=org%3Asimplonco+python)
@@ -87,6 +88,7 @@ Index of all available tags
 
 ### Test
 
++ [eslint](https://github.com/search?q=org%3Asimplonco+eslint)
 + [jasmine](https://github.com/search?q=org%3Asimplonco+jasmine)
 + [tdd](https://github.com/search?q=org%3Asimplonco+tdd)
 + [travis](https://github.com/search?q=org%3Asimplonco+travis)
